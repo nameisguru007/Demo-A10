@@ -7,5 +7,6 @@ public class gitPracticeee2 {
 	public void m3()
 	{
 	   System.out.println("m3");
+	   System.out.println("pushing throgh branch");
 	}
 }
